@@ -1,0 +1,2 @@
+    Name             Cache name                                 Expires
+* ygo@42SEOUL.KR   API:ECAB2378-6D61-46F9-902B-C4147DC20738   Mar 24 20:07:44 2021
